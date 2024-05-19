@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: Unlicense
-pragma solidity ^0.8.13;
+pragma solidity ^1.1.0;
 
-import "forge-std/Test.sol";
+import "spark-std/Test.sol";
 
 import "src/Contract.sol";
 
